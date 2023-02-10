@@ -2,6 +2,12 @@
   <router-view/>
 </template>
 
-<style>
+<script>
+export default {
+  name: "App.vue",
+}
+</script>
+
+<style scoped>
 
 </style>
